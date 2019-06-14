@@ -19,33 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "International Mathematical Modeling Challenge"
+  organization_url = "http://immchallenge.org/Index.html"
+  title = "Top 5 International Team - Top Team in the USA"
+  url = "http://immchallenge.org/Contests/2018/awards/index.html"
+  certificate_url = "http://immchallenge.org/Contests/2018/certs/2018032.pdf"
+  date_start = "2018-08-01"
   date_end = ""
-  description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Meritorious award in the International Mathematical Modeling Challenge 2018 (IMMC). Top team in the United States."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "MoMATH Hackathon"
+  organization_url = "http://hackathon.momath.org/"
+  title = "1st Place Winner"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2017-08-01"
+  date_end = "2017-08-01"
+  description = "Created a Python library for visualizing control systems, and a webapp for explaining the importance of the mathematics of control theory through the lens of a PID controller and self-driving cars."
+
+[[item]]
+  organization = "CREATE U.S. Open Robotics Nationals"
+  organization_url = "https://www.create-found.org/RoboticChampionship.php"
+  title = "Honor Award"
+  url = ""
+  certificate_url = "https://www.create-found.org/documents/2017U.S.OpenRoboticsChampionshipAwardRecipients.pdf"
+  date_start = "2017-04-01"
+  date_end = "2017-04-04"
+  description = "Top individual team award at robotics nationals."
 
 +++
