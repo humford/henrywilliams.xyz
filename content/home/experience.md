@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   * Built a staff of 100+, wrote a comprehensive progressive policy platform.
   * Got the candidate to 1% and above in major national polls.
   * Profiled in [the New York Times](https://www.nytimes.com/2019/06/06/magazine/mike-gravel-teens-twitter-presidential-campaign.html "New York Times Profile").
-  * Covered by [the Washington Post](https://www.washingtonpost.com/nation/2019/03/21/an-year-old-ex-senator-is-newest-democratic-dark-horse-thanks-acerbic-teens-running-his-twitter/ "Washington Post Article"), [The Atlantic](https://www.theatlantic.com/politics/archive/2019/04/mike-gravels-unlikely-democratic-presidential-campaign/586837/ "Atlantic Article"), [Rolling Stone](https://www.rollingstone.com/politics/politics-news/gravel-2020-810542/ "Rolling Stone Article"), [Guardian](https://www.theguardian.com/us-news/2019/apr/20/mike-gravel-2020-presidential-campaign "Guardian Article"), [Vox](https://www.vox.com/policy-and-politics/2019/5/27/18638687/mike-gravel-2020-democratic-presidential-candidates "Vox Article"), [Politico](https://www.politico.com/story/2019/03/20/mike-gravel-president-chapo-trap-house-1230332 "Politico Article"), [Jezebel](https://theslot.jezebel.com/the-great-man-president-is-a-lie-1834624803 "Jezebel Profile").
+  * Covered by [the Washington Post](https://www.washingtonpost.com/nation/2019/03/21/an-year-old-ex-senator-is-newest-democratic-dark-horse-thanks-acerbic-teens-running-his-twitter/ "Washington Post Article"), [The Atlantic](https://www.theatlantic.com/politics/archive/2019/04/mike-gravels-unlikely-democratic-presidential-campaign/586837/ "Atlantic Article"), [Rolling Stone](https://www.rollingstone.com/politics/politics-news/gravel-2020-810542/ "Rolling Stone Article"), [Guardian](https://www.theguardian.com/us-news/2019/apr/20/mike-gravel-2020-presidential-campaign "Guardian Article"), [Vox](https://www.vox.com/policy-and-politics/2019/5/27/18638687/mike-gravel-2020-democratic-presidential-candidates "Vox Article"), [Politico](https://www.politico.com/story/2019/03/20/mike-gravel-president-chapo-trap-house-1230332 "Politico Article"), [Jezebel](https://theslot.jezebel.com/the-great-man-president-is-a-lie-1834624803 "Jezebel Profile"), and many others.
   """
 
 [[experience]]
@@ -63,7 +63,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Software Engineering Intern"
-  company = "University X"
+  company = "BirchBox"
   company_url = "https://www.birchbox.com/"
   location = "Flatiron District, Manhattan, NY"
   date_start = "2016-06-01"
@@ -72,7 +72,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Software Logistics Intern"
-  company = "University X"
+  company = "AppNexus"
   company_url = "https://www.appnexus.com/"
   location = "Flatiron District, Manhattan, NY"
   date_start = "2015-06-01"

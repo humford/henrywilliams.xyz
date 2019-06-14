@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Henry is a rising sophomore at Columbia University studying mathematics, physics and computer science. He currently leads Former Senator Mike Gravel's 2020 campaign for president to shift the dialogue in the democratic party on war, democracy, and justice. He was also selected as a 2019 Data Science Institute Scholar, studying the applciations of artificial intelligence in education at EdLab, Teacher's College. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Interested in artificial intelligence, education, philosophy, critical theory, and leftist politics. 
