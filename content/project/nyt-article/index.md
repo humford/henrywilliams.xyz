@@ -5,7 +5,7 @@ tags:
 - Mike Gravel
 - politics
 - Twitter
-date: "2019-05-06T00:00:00Z"
+date: "2019-06-06T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://www.nytimes.com/2019/06/06/magazine/mike-gravel-teens-twitter-presidential-campaign.html
