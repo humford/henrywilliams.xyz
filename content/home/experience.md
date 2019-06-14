@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   location = "Montefiore Medical Center, Bronx, NY"
   date_start = "2016-07-01"
   date_end = "2016-09-01"
-  description = """Researched and co-wrote a paper on skew as a statistical measure in computational biology, accepted at ICIBM 2019, published in BMC Bioinformatics. Found signifigant results in TCGA human cancer datasets and refined analysis using the R language."""
+  description = """Researched and co-wrote a paper on skew as a statistical measure in computational biology, accepted at [ICIBM 2019](http://icibm2019.org/Schedule.htm "Conference Schedule"), published in BMC Bioinformatics. Found signifigant results in TCGA human cancer datasets and [did analysis](https://github.com/humford/epsilon "Research Code") using the R language."""
 
 [[experience]]
   title = "Software Engineering Intern"
