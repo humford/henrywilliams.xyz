@@ -15,21 +15,33 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = ""
+  
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = ""
+
+[[feature]]
+  icon = "node"
+  icon_pack = "fas"
+  name = "NodeJS"
+  description = "" 
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  description = ""  
 
+[[feature]]
+  icon = "docker"
+  icon_pack = "fas"
+  name = "Containerization"
+  description = "" 
+  
 +++
