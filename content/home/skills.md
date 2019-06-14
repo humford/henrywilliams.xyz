@@ -28,7 +28,7 @@ subtitle = ""
 
 [[feature]]
   icon = "node"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "NodeJS"
   description = "" 
   
@@ -40,7 +40,7 @@ subtitle = ""
 
 [[feature]]
   icon = "docker"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Containerization"
   description = "" 
   
