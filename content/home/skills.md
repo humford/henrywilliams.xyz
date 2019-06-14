@@ -33,6 +33,12 @@ subtitle = ""
   description = "" 
   
 [[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "" 
+
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
