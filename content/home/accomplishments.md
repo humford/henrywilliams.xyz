@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2017-08-01"
-  date_end = "2017-08-01"
+  date_end = ""
   description = "Created a Python library for visualizing control systems, and a webapp for explaining the importance of the mathematics of control theory through the lens of a PID controller and self-driving cars."
 
 [[item]]
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://www.create-found.org/documents/2017U.S.OpenRoboticsChampionshipAwardRecipients.pdf"
   date_start = "2017-04-01"
-  date_end = "2017-04-04"
+  date_end = ""
   description = "Top individual team award at robotics nationals."
 
 +++

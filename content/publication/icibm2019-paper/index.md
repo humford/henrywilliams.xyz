@@ -36,6 +36,8 @@ featured: true
 links:
 - name: Conference
   url: http://icibm2019.org/Schedule.htm
+- name: Slides
+  url: files/OhioConference_JessMar.pdf
 url_pdf: files/ICIBM2019_paper_80.pdf
 url_code: 'https://github.com/humford/epsilon'
 url_dataset: 'https://portal.gdc.cancer.gov/'
