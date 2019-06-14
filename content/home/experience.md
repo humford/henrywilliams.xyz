@@ -30,8 +30,8 @@ date_format = "Jan 2006"
   * Designed Twitter strategy which attracted 50k donors, 100 million engagements, and 100k followers in three months.
   * Built a staff of 100+, wrote a comprehensive progressive policy platform.
   * Got the candidate to 1% and above in major national polls.
-  * Profiled in [the New York Times](https://www.nytimes.com/2019/06/06/magazine/mike-gravel-teens-twitter-presidential-campaign.html "New York Times Profile").
-  * Covered by [the Washington Post](https://www.washingtonpost.com/nation/2019/03/21/an-year-old-ex-senator-is-newest-democratic-dark-horse-thanks-acerbic-teens-running-his-twitter/ "Washington Post Article"), [The Atlantic](https://www.theatlantic.com/politics/archive/2019/04/mike-gravels-unlikely-democratic-presidential-campaign/586837/ "Atlantic Article"), [Rolling Stone](https://www.rollingstone.com/politics/politics-news/gravel-2020-810542/ "Rolling Stone Article"), [Guardian](https://www.theguardian.com/us-news/2019/apr/20/mike-gravel-2020-presidential-campaign "Guardian Article"), [Vox](https://www.vox.com/policy-and-politics/2019/5/27/18638687/mike-gravel-2020-democratic-presidential-candidates "Vox Article"), [Politico](https://www.politico.com/story/2019/03/20/mike-gravel-president-chapo-trap-house-1230332 "Politico Article"), [Jezebel](https://theslot.jezebel.com/the-great-man-president-is-a-lie-1834624803 "Jezebel Profile"), and many others.
+  * Profiled in the [New York Times](https://www.nytimes.com/2019/06/06/magazine/mike-gravel-teens-twitter-presidential-campaign.html "New York Times Profile").
+  * Covered by the [Washington Post](https://www.washingtonpost.com/nation/2019/03/21/an-year-old-ex-senator-is-newest-democratic-dark-horse-thanks-acerbic-teens-running-his-twitter/ "Washington Post Article"), [The Atlantic](https://www.theatlantic.com/politics/archive/2019/04/mike-gravels-unlikely-democratic-presidential-campaign/586837/ "Atlantic Article"), [Rolling Stone](https://www.rollingstone.com/politics/politics-news/gravel-2020-810542/ "Rolling Stone Article"), [Guardian](https://www.theguardian.com/us-news/2019/apr/20/mike-gravel-2020-presidential-campaign "Guardian Article"), [Vox](https://www.vox.com/policy-and-politics/2019/5/27/18638687/mike-gravel-2020-democratic-presidential-candidates "Vox Article"), [Politico](https://www.politico.com/story/2019/03/20/mike-gravel-president-chapo-trap-house-1230332 "Politico Article"), [Jezebel](https://theslot.jezebel.com/the-great-man-president-is-a-lie-1834624803 "Jezebel Profile"), and many others.
   """
 
 [[experience]]
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   location = "Columbia University, Manhattan, NY"
   date_start = "2019-05-01"
   date_end = ""
-  description = """Researching the application of data science techniques to improve self-directed learning opportunities. Only freshman to be selected for the program."""
+  description = """Researching the application of data science techniques to improve self-directed learning opportunities. Only freshman to be selected for the [program](https://datascience.columbia.edu/scholars "DSI Scholars")."""
 
 [[experience]]
   title = "Software Engineering Intern"
