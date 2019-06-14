@@ -26,20 +26,25 @@ abstract: Skewness is an under-utilized statistical measure that captures the de
 summary: This study applied a new metric based on skewness to identify regulators or genes that have outlier expression in large patient cohorts.
 
 tags:
-- Source Themes
+- skewness
+- gene expression
+- non-normality
+- TCGA
+- cancer genomics
 featured: true
 
 links:
 - name: Conference
   url: http://icibm2019.org/Schedule.htm
 url_pdf: files/ICIBM2019_paper_80.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_code: 'https://github.com/humford/epsilon'
+url_dataset: 'https://portal.gdc.cancer.gov/'
+
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -62,14 +67,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
