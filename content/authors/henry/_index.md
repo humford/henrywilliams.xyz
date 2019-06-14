@@ -42,6 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: wikipedia-w
+  icon_pack: fab
+  link: https://en.wikipedia.org/wiki/Henry_Williams_(American_activist)
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/humford
