@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   description = """Worked to build and deploy business-critical optimization analysis software as a containerized cluster of jobs. Created Docker jobs on a Kubernetes cluster for dramatic speed and reliabilty improvements."""
 
 [[experience]]
-  title = "Professor"
+  title = "Summer Researcher"
   company = "Albert Einstein College of Medicine"
   company_url = "https://einstein.yu.edu/"
   location = "Montefiore Medical Center, Bronx, NY"
