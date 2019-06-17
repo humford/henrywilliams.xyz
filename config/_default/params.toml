@@ -68,7 +68,7 @@ contact_links = [
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:hwill12345?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@humford"},
+  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://t.me/humford"},
   ]
 
 # Display a map.
