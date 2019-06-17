@@ -30,7 +30,7 @@ tags:
 - healthcare
 - latent variable model
 - hospitals
-featured: true
+featured: false
 
 links:
 - name: Competition
