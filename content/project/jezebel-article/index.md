@@ -4,6 +4,7 @@ summary: The 'Great Man' President Is a Lie
 tags:
 - Mike Gravel
 - politics
+- interview
 date: "2019-06-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
