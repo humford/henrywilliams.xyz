@@ -36,7 +36,7 @@ featured: false
 
 links:
 - name: Slides
-  url: 'https://example.org'
+  url: files/EdLabSeminarPresentation.pdf
 url_pdf: files/AERA_Paper_2020.pdf
 url_code: 'https://github.com/humford/EdLabResearch'
 
