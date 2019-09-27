@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Chief of Staff / Chief Strategist
+role: Communications Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Mike Gravel 2020
-  url: "https://www.mikegravel.org/"
+- name: Jacobin Magazine
+  url: "https://www.jacobinmag.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Student, activist, questionable writer, programmer.
@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: BA in Computer Science and Math
+  - course: BA in Mathematics and CS
     institution: Columbia University
     year: 2022
-  - course: High School Degree
+  - course: High School
     institution: The Masters School
     year: 2018
 

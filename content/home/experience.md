@@ -18,20 +18,38 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Communications Fellowship"
+  company = "Jacobin Magazine"
+  company_url = "https://www.jacobinmag.com/"
+  location = "Manhattan, NY"
+  date_start = "2019-09-27"
+  date_end = ""
+  description = """Manage online presence for leading voice of the American Left."""
+
+[[experience]]
+  title = "Executive Director"
+  company = "The Gravel Institute"
+  company_url = "https://www.gravelinstitute.org/"
+  location = "Manhattan, NY"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """Leading and building a newly-created progressive think tank."""
+
+[[experience]]
   title = "Chief of Staff"
   company = "Mike Gravel 2020"
   company_url = "https://www.mikegravel.org/"
   location = "Manhattan, NY"
   date_start = "2019-03-01"
-  date_end = ""
+  date_end = "2019-08-01"
   description = """
-  Plan, architect, and lead Former Senator Mike Gravel's campaign to shift the debate on war, democracy, and justice in the 2020 Democratic Primary:
+  Planned, architected, and led Former Senator Mike Gravel's campaign to shift the debate on war, democracy, and justice in the 2020 Democratic Primary:
   
-  * Designed [Twitter](https://twitter.com/MikeGravel "Twitter Account") strategy which attracted 66k donors, 160 million engagements, and 125k followers, as well as 25k [Instagram](https://www.instagram.com/mikegravel2020/ "Instagram Account") followers.
+  * Designed [Twitter](https://twitter.com/MikeGravel "Twitter Account") strategy which attracted 70k donors, 300 million engagements, and 130k followers, as well as 25k [Instagram](https://www.instagram.com/mikegravel2020/ "Instagram Account") followers.
   * Qualified the candidate for the July Democratic Primary Debates through grassroots donors. Got the candidate to 1% and above in major national polls.
   * Wrote and directed a political ad which got 500k views.
   * Built a staff of 100+, wrote a comprehensive progressive policy platform.
-  * Met with Presidential Candidates Tulsi Gabbard and Andrew Yang.
+  * Met with multiple Presidential Candidates.
   * Worked with Candidate Marianne Williamson on an [unprecedented co-fundraising deal](http://nymag.com/intelligencer/2019/07/marianne-williamson-helps-gravel-raise-money-for-debates.html "NYMag Article").
   * Profiled in the [New York Times](https://www.nytimes.com/2019/06/06/magazine/mike-gravel-teens-twitter-presidential-campaign.html "New York Times Profile").
   * Covered by the [Washington Post](https://www.washingtonpost.com/nation/2019/03/21/an-year-old-ex-senator-is-newest-democratic-dark-horse-thanks-acerbic-teens-running-his-twitter/ "Washington Post Article"), [The Atlantic](https://www.theatlantic.com/politics/archive/2019/04/mike-gravels-unlikely-democratic-presidential-campaign/586837/ "Atlantic Article"), [Rolling Stone](https://www.rollingstone.com/politics/politics-news/gravel-2020-810542/ "Rolling Stone Article"), [Guardian](https://www.theguardian.com/us-news/2019/apr/20/mike-gravel-2020-presidential-campaign "Guardian Article"), [Jacobin](https://jacobinmag.com/2019/05/mike-gravel-democratic-primary-anti-imperialism "Jacobin Article"), [Current Affairs](https://www.currentaffairs.org/2019/04/mike-gravels-staff-explain-his-improbable-campaign "Current Affairs Article"), [Vox](https://www.vox.com/policy-and-politics/2019/5/27/18638687/mike-gravel-2020-democratic-presidential-candidates "Vox Article"), [Politico](https://www.politico.com/story/2019/03/20/mike-gravel-president-chapo-trap-house-1230332 "Politico Article"), [Jezebel](https://theslot.jezebel.com/the-great-man-president-is-a-lie-1834624803 "Jezebel Profile"), and many others.
@@ -43,8 +61,8 @@ date_format = "Jan 2006"
   company_url = "https://edlab.tc.columbia.edu/"
   location = "Columbia University, Manhattan, NY"
   date_start = "2019-05-01"
-  date_end = ""
-  description = """Researching the application of data science techniques to improve self-directed learning opportunities. Only freshman to be selected for the [program](https://datascience.columbia.edu/scholars "DSI Scholars")."""
+  date_end = "2019-07-20"
+  description = """Researched the application of data science techniques to improve self-directed learning opportunities. Only freshman to be selected for the [program](https://datascience.columbia.edu/scholars "DSI Scholars"). Submitted a paper to the AERA 2020 Education Conference."""
 
 [[experience]]
   title = "Software Engineering Intern"
