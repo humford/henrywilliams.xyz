@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Communications Fellowship"
+  title = "Communications Fellow"
   company = "Jacobin Magazine"
   company_url = "https://www.jacobinmag.com/"
   location = "Manhattan, NY"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Manhattan, NY"
   date_start = "2019-09-01"
   date_end = ""
-  description = """Leading and building a newly-created progressive think tank."""
+  description = """Leading and building a newly-created progressive think tank. The Institute has produced policy papers in collaboration with the [People's Policy Project](https://www.peoplespolicyproject.org/), solicited donors, started a YouTube channel for videos about progressive issues."""
 
 [[experience]]
   title = "Chief of Staff"
