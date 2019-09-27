@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Henry is a rising sophomore at Columbia University studying mathematics, physics and computer science. He currently leads Former Senator Mike Gravel's 2020 campaign for president to shift the dialogue in the democratic party on war, democracy, and justice. He was also selected as a Data Science Institute Scholar, studying the applciations of artificial intelligence in education at EdLab, Teacher's College. 
+Henry is a sophomore at Columbia University studying mathematics, physics and computer science. He led Former Senator Mike Gravel's 2020 campaign for president to shift the dialogue in the democratic party on war, democracy, and justice. He was also selected as a Data Science Institute Scholar, studying the applciations of artificial intelligence in education at EdLab, Teacher's College. 
