@@ -10,18 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Communications Fellow
+role: Chair
 
 # Organizations/Affiliations
 organizations:
-- name: Jacobin Magazine
-  url: "https://www.jacobinmag.com/"
+- name: The Gravel Institute
+  url: "https://www.gravelinstitute.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Student, activist, questionable writer, programmer.
 
 interests:
-- Democratic Socialism
+- Economics
 - Artificial Intelligence
 - Critical Theory
 
@@ -29,7 +29,7 @@ education:
   courses:
   - course: BA in Mathematics and CS
     institution: Columbia University
-    year: 2022
+    year: Expected 2022
   - course: High School
     institution: The Masters School
     year: 2018
@@ -42,9 +42,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: wikipedia-w
-  icon_pack: fab
-  link: https://en.wikipedia.org/wiki/Henry_Williams_(activist)
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/humford
@@ -54,6 +51,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/humford
+- icon: wikipedia-w
+  icon_pack: fab
+  link: https://en.wikipedia.org/wiki/Henry_Williams_(activist)
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Henry is a sophomore at Columbia University studying mathematics and computer science. He is currently a Communications Fellow at [Jacobin Magazine](https://jacobinmag.com/) and an Executive Director of [The Gravel Institute](https://gravelinstitute.org). He led Former Senator Mike Gravel's 2020 campaign for president to shift the dialogue in the democratic party on war, democracy, and justice. He was also selected as a Data Science Institute Scholar, studying the applications of artificial intelligence in education at EdLab, Teacher's College. 
+Henry is a student at Columbia University studying mathematics and computer science. He is currently the Chairman of the Board of [The Gravel Institute](https://gravelinstitute.org). He led Former Senator Mike Gravel's 2020 campaign for president to shift the dialogue in the democratic party on war, democracy, and justice. He was also selected as a 2019 Data Science Institute Scholar, studying AI-powered recommedation systems for education at EdLab, Teacher's College. 
