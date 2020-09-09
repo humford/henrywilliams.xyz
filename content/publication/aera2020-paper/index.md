@@ -18,8 +18,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *American Educational Research Association 2020*
-publication_short: In *AERA 2020*
+publication: In *American Educational Research Association 2021*
+publication_short: In *AERA 2021*
 
 abstract: The adoption of digital library services which provide users access to resources from anywhere has enabled the collection of data about the learning behavior of library patrons. Such Big Data can yield valuable insights into how learning happens and can be used to build recommendation systems for education. By their nature, such resources are interconnected by bibliometric metadata. In this paper, we develop and test methods for building graphs of research corpora accessed by patrons through a library proxy server. We provide open-source software for building and analyzing these representations and discuss the challenges of identifying and discovering metadata from sparse proxy server logs. In addition, we discuss the potential for further research in network modeling of library access records.
 

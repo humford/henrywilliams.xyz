@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BA in Mathematics and CS
+  - course: BA in Computer Science-Mathematics
     institution: Columbia University
     year: Expected 2022
   - course: High School
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Henry is a student at Columbia University studying mathematics and computer science. He is currently the Chairman of the Board of [The Gravel Institute](https://gravelinstitute.org). He led Former Senator Mike Gravel's 2020 campaign for president to shift the dialogue in the democratic party on war, democracy, and justice. He was also selected as a 2019 Data Science Institute Scholar, studying AI-powered recommedation systems for education at EdLab, Teacher's College. 
+Henry is a student at Columbia University studying mathematics and computer science, on leave to pursue various projects. He is currently the Chairman of the Board for [The Gravel Institute](https://gravelinstitute.org), a 501(c)4 political non-profit dedicated to combating right-wing disinformation online. He led Former Senator Mike Gravel's 2020 campaign for president to shift the dialogue in the Democratic Party on war, democracy, and justice. He was also selected as a 2019 Data Science Institute Scholar, studying AI-powered recommedation systems for education at EdLab, Teacher's College. 

@@ -23,17 +23,17 @@ date_format = "Jan 2006"
   company_url = "https://www.jacobinmag.com/"
   location = "Manhattan, NY"
   date_start = "2019-09-27"
-  date_end = ""
-  description = """Manage online presence for leading voice of the American Left."""
+  date_end = "2020-02-26"
+  description = """Managed online presence for leading voice of the American Left."""
 
 [[experience]]
-  title = "Executive Director"
+  title = "Chair"
   company = "The Gravel Institute"
   company_url = "https://www.gravelinstitute.org/"
   location = "Manhattan, NY"
   date_start = "2019-09-01"
   date_end = ""
-  description = """Leading and building a newly-created progressive think tank. The Institute has produced policy papers in collaboration with the [People's Policy Project](https://www.peoplespolicyproject.org/), solicited donors, started a YouTube channel for videos about progressive issues."""
+  description = """Leading and building a newly-created progressive think tank. The Institute has produced policy papers in collaboration with the [People's Policy Project](https://www.peoplespolicyproject.org/), brought on several major donors, and launched a series of videos about progressive issues."""
 
 [[experience]]
   title = "Chief of Staff"

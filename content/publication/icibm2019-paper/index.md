@@ -14,11 +14,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["1", "2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Intelligent Biology and Medicine 2019*
-publication_short: In *ICIBM 2019*
+publication: In *BMC Bioinformatics*
+publication_short: In *BMC Bioinformatics*
 
 abstract: Skewness is an under-utilized statistical measure that captures the degree of asymmetry in the distribution of any dataset. This study applied a new metric based on skewness to identify regulators or genes that have outlier expression in large patient cohorts. We investigated whether specific patterns of skewed expression were related to the enrichment of biological pathways or genomic properties like DNA methylation status. Our study used publicly available datasets that were generated using both RNA-sequencing and microarray technology platforms. For comparison, the datasets selected for this study also included different samples derived from control donors and cancer patients. When comparing the shift in expression skewness between cancer and control datasets, we observed an enrichment of pathways related to immune function that reflect increases towards positive skewness in the cancer relative to control datasets. Significant correlation was also detected between expression skewness and differential DNA methylation occurring in the promotor regions for four TCGA cancer cohorts. Our results indicate the expression skewness can reveal new insights into transcription based on outlier and asymmetrical behaviour in large patient cohorts. 
 
@@ -34,11 +34,13 @@ tags:
 featured: true
 
 links:
+- name: Paper
+  url: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3252-0
 - name: Conference
   url: http://icibm2019.org/Schedule.htm
 - name: Slides
   url: files/OhioConference_JessMar.pdf
-url_pdf: files/ICIBM2019_Paper_No_Edits.pdf
+url_pdf: files/s12859-019-3252-0.pdf
 url_code: 'https://github.com/humford/epsilon'
 url_dataset: 'https://portal.gdc.cancer.gov/'
 
