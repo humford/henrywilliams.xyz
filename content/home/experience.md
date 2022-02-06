@@ -27,13 +27,31 @@ date_format = "Jan 2006"
   description = """Managed online presence for leading voice of the American Left."""
 
 [[experience]]
-  title = "Chair"
+  title = "Contrary Fellow"
+  company = "Contrary"
+  company_url = "https://contrarycap.com/"
+  location = "Manhattan, NY"
+  date_start = "2021-04-01"
+  date_end = ""
+  description = """Selected to join the Contrary Fellowship in spring 2021."""
+
+[[experience]]
+  title = "Growth Analyst"
+  company = "The Org"
+  company_url = "https://theorg.com/"
+  location = "Manhattan, NY"
+  date_start = "2020-10-01"
+  date_end = "2021-05-01"
+  description = """Worked closely with Head of Growth at fast-growing Sequoia Capital-backed start-up."""
+
+[[experience]]
+  title = "Co-Founder and Co-Director (Strategy and Development)"
   company = "The Gravel Institute"
   company_url = "https://www.gravelinstitute.org/"
   location = "Manhattan, NY"
-  date_start = "2019-09-01"
+  date_start = "2020-09-01"
   date_end = ""
-  description = """Leading and building a newly-created progressive think tank. The Institute has produced policy papers in collaboration with the [People's Policy Project](https://www.peoplespolicyproject.org/), brought on several major donors, and launched a series of videos about progressive issues."""
+  description = """Leading and building a novel progressive think tank combining policy research and campaigning with a social media community and educational video content. Created online fundraising infrastructure, video team, and relationships with major left nonprofits. Grew YouTube channel to over 300,000 subscribers."""
 
 [[experience]]
   title = "Chief of Staff"
