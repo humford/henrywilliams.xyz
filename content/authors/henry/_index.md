@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Chair
+role: Co-Founder and Co-Director
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,18 @@ organizations:
   url: "https://www.gravelinstitute.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Student, activist, questionable writer, programmer.
+bio: Student, activist, writer, programmer.
 
 interests:
-- Economics
-- Artificial Intelligence
-- Critical Theory
+- Economic History
+- Theories of Technology
+- Social & Political Philosophy
 
 education:
   courses:
-  - course: BA in Computer Science-Mathematics
+  - course: BA in Computer Science-Mathematics + Philosophy
     institution: Columbia University
-    year: Expected 2022
+    year: 2023
   - course: High School
     institution: The Masters School
     year: 2018
@@ -51,9 +51,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/humford
-- icon: wikipedia-w
-  icon_pack: fab
-  link: https://en.wikipedia.org/wiki/Henry_Williams_(activist)
+# - icon: wikipedia-w
+#   icon_pack: fab
+#   link: https://en.wikipedia.org/wiki/Henry_Williams_(activist)
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Henry is a student at Columbia University studying mathematics and computer science, on leave to pursue various projects. He is currently the Chairman of the Board for [The Gravel Institute](https://gravelinstitute.org), a 501c4 political non-profit dedicated to combating right-wing disinformation online. He led Former Senator Mike Gravel's 2020 campaign for president to shift the dialogue in the Democratic Party on war, democracy, and justice. He was also selected as a 2019 Data Science Institute Scholar, studying AI-powered recommedation systems for education at EdLab, Teacher's College. 
+Henry is a junior at Columbia University studying computer science-mathematics and philosophy. He is the Co-Founder and Chairman of the Board for [The Gravel Institute](https://gravelinstitute.org), a 501c3 political non-profit dedicated to combating right-wing disinformation online. He led Former Senator Mike Gravel's 2020 campaign for president to shift the dialogue in the Democratic Party on war, democracy, and justice. He was selected as a 2019 Data Science Institute Scholar, studying recommedation systems for education at EdLab, Teacher's College. He has published peer-reviewed research in computational biology, and previously reached the international level in applied math and robotics competitions.
