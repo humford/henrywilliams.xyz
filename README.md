@@ -1,4 +1,4 @@
-# [HenryWilliams.me](https://henrywilliams.me/)
+# [HenryWilliams.xyz](https://henrywilliams.xyz/)
 
 Personal wesbite for Henry Williams.
 
@@ -9,6 +9,6 @@ Personal wesbite for Henry Williams.
 
 ## License
 
-Copyright 2019-present [Henry Williams](https://henrywilliams.me).
+Copyright 2019-present [Henry Williams](https://henrywilliams.xyz).
 
 Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
